@@ -1,4 +1,4 @@
-// learning OOP
+// learning OOP in JS
 
 var transport = {
     days: 4,
